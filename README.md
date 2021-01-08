@@ -7,7 +7,7 @@ When the user is using the budget application without internet connection and in
 
 # Heroku Link
 
-# Application Screenshots
+# Application Screenshot
 ![screenshot](./public/assets/images/image.png)
 
 # Questions
