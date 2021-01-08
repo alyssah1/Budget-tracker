@@ -5,12 +5,12 @@
         {
             "src": "icons/icon-192X192.png",
             "sizes": "192X192",
-            "type": "icons/png"
+            "type": "image/png"
         },
         {
             "src": "icons/icon-512X512.png",
             "sizes": "512X512",
-            "type": "icons/png"
+            "type": "image/png"
         }
     ],
     "theme_color": "#ffffff",
